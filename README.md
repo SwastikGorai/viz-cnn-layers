@@ -1,6 +1,6 @@
 # Visualize Outputs of CNN Layers
 
-This repository contains code and necessary files for creating a submodel from a trained model by selecting certain layers from it. The trained model is taken from the repository at ```https://github.com/SwastikGorai/automatic-octo-umbrella``` . The submodel can then be used for prediction on a set of images, allowing you to visualize the outputs of the intermediate CNN layers.
+This repository contains code and necessary files for creating a submodel from a trained model by selecting certain layers from it. The trained model is taken from the repository at [```https://github.com/SwastikGorai/automatic-octo-umbrella```](https://github.com/SwastikGorai/automatic-octo-umbrella) . The submodel can then be used for prediction on a set of images, allowing you to visualize the outputs of the intermediate CNN layers.
 
 
 ### To use this code, you will need to:
